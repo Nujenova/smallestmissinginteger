@@ -1,5 +1,4 @@
-A = [0]
-B = len(A)
+A = [0] #this is any random string of numbers
 
 def solution(A):
     A.sort()
